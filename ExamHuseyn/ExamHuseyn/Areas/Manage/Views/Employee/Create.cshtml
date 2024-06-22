@@ -1,0 +1,65 @@
+﻿@using ExamHuseyn.Areas.Manage.ViewModels
+@using ExamHuseyn.Models
+@model CreateEmpVm
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+         
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    
+                    <label asp-for="Photo">Photo</label>
+                    <input asp-for="Photo" class="form-control" placeholder="Photo">
+                    <span asp-validation-for="Photo"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FullName" >FullName</label>
+                    <input asp-for="FullName" class="form-control" placeholder="Username">
+                    <span asp-validation-for="FullName"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description">Description</label>
+                    <input asp-for="Description" class="form-control" placeholder="Description">
+                    <span asp-validation-for="Description"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Fb">Fb</label>
+                    <input asp-for="Fb" class="form-control" placeholder="Fb">
+                    <span asp-validation-for="Fb"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="Insta">Insta</label>
+                    <input asp-for="Insta" class="form-control" placeholder="Insta">
+                    <span asp-validation-for="Insta"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="LinkIn">LinkIn</label>
+                    <input asp-for="LinkIn" class="form-control" placeholder="LinkIn">
+                    <span asp-validation-for="LinkIn"></span>
+
+                </div>
+                <div class="form-group">
+                    <label asp-for="Twitter">Twitter</label>
+                    <input asp-for="Twitter" class="form-control" placeholder="Twitter">
+                    <span asp-validation-for="Twitter"></span>
+
+                </div>
+             
+                <div class="form-group">
+                    <label asp-for="PositionId">Position</label>
+                    <select asp-for="PositionId" class="form-control" placeholder="Photo" asp-items="new SelectList(Model.Positions,nameof(Position.Id),nameof(Position.Name))">
+                        <option selected disabled>Choose Position</option>
+                    </select>
+                    <span asp-validation-for="PositionId"></span>
+
+                </div>
+             
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light" asp-action="index" asp-controller="employee">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

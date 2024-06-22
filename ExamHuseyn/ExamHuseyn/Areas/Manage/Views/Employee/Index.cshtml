@@ -1,0 +1,81 @@
+﻿@using ExamHuseyn.Areas.Manage.ViewModels
+@using ExamHuseyn.Models
+@model PaginationVm<Employee>
+@{
+    int count = (Model.CurrentPage - 1) * 3;
+}
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <div class="container d-flex">
+                <div class="col-6">
+                    <a asp-action="create" asp-controller="employee"><button type="button" class="btn btn-success btn-rounded btn-fw">Create</button></a>
+                </div>
+                <div class="col-6">
+                    <nav aria-label="...">
+                        <ul class="pagination">
+
+
+                            @for (int i = 0; i < Model.TotalPage; i++)
+                            {
+                                <li class="page-item @(Model.CurrentPage-1==i?"active":"")">
+                                    <a class="page-link" asp-route-page="@(i+1)">@(i + 1) <span class="sr-only"></span></a>
+                                </li>
+                            }
+
+                        </ul>
+                    </nav>
+                </div>
+
+            </div>
+            <div class="table-responsive pt-3">
+                <table class="table table-dark">
+                    <thead>
+                        <tr>
+                            <th>
+                                #
+                            </th>
+                            <th>
+                                Fullname
+                            </th>
+                            <th>
+                                Position
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Items)
+                        {
+
+                            <tr>
+                                <td>
+                                    @(++count)
+                                </td>
+                                <td>
+                                    @item.FullName
+                                </td>
+                                <td>
+                                    @item.Position.Name
+                                </td>
+                                <td>
+                                    <img style="width:200px;height:200px;" src="~/assets/img/team/@item.Image" alt="">
+                                </td>
+                                <td>
+                                    <a asp-action="update" asp-controller="employee" asp-route-id="@item.Id"><button type="button" class="btn btn-info btn-rounded btn-fw">Update</button></a>
+                                    <a asp-action="delete" asp-controller="employee" asp-route-id="@item.Id"><button type="button" class="btn btn-danger btn-rounded btn-fw">Delete</button></a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

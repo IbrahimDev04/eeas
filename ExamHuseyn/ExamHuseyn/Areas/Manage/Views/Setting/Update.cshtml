@@ -1,0 +1,21 @@
+﻿@using ExamHuseyn.Areas.Manage.ViewModels
+@model UpdateSettingVm
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+          
+            <form class="forms-sample" method="post">
+             
+                <div class="form-group">
+                    <label asp-for="Value">Value</label>
+                    <input asp-for="Value" class="form-control" placeholder="Value">
+                    <span asp-validation-for="Value"></span>
+                </div>
+               
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light" asp-action="index" asp-controller="setting">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

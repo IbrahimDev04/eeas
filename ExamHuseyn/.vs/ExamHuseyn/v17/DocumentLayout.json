@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\utilities\\extentions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\exam\\examhuseyn\\examhuseyn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\exam\\examhuseyn\\examhuseyn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\viewmodels\\employee\\updateempvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\viewmodels\\employee\\updateempvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\utilities\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\utilities\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\viewmodels\\employee\\createempvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\viewmodels\\employee\\createempvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.09\\Desktop\\Exam\\ExamHuseyn\\ExamHuseyn\\Migrations\\20240125052530_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\examhuseyn\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC3DDE1-3090-4FF3-823D-A443044B0F18}|ExamHuseyn\\ExamHuseyn.csproj|solutionrelative:examhuseyn\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAWwHgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:52:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Program.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Program.cs",
+              "RelativeToolTip": "ExamHuseyn\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:47:25.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Setting.cs",
+              "RelativeToolTip": "ExamHuseyn\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Services\\LayoutService.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Services\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Services\\LayoutService.cs",
+              "RelativeToolTip": "ExamHuseyn\\Services\\LayoutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ExamHuseyn\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Utilities\\Extentions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeToolTip": "ExamHuseyn\\Utilities\\Extentions\\FileValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEmpVm.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\CreateEmpVm.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\CreateEmpVm.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\CreateEmpVm.cs",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\CreateEmpVm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateEmpVm.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\UpdateEmpVm.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\UpdateEmpVm.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\UpdateEmpVm.cs",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\ViewModels\\Employee\\UpdateEmpVm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Utilities\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Utilities\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Utilities\\Enums\\Roles.cs",
+              "RelativeToolTip": "ExamHuseyn\\Utilities\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Employee.cs",
+              "RelativeToolTip": "ExamHuseyn\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\Position.cs",
+              "RelativeToolTip": "ExamHuseyn\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamHuseyn\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\appsettings.json",
+              "RelativeToolTip": "ExamHuseyn\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T17:46:55.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240125052530_addtables.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.09\\Desktop\\Exam\\ExamHuseyn\\ExamHuseyn\\Migrations\\20240125052530_addtables.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ca.r214.09\\Desktop\\Exam\\ExamHuseyn\\ExamHuseyn\\Migrations\\20240125052530_addtables.cs",
+              "ToolTip": "C:\\Users\\ca.r214.09\\Desktop\\Exam\\ExamHuseyn\\ExamHuseyn\\Migrations\\20240125052530_addtables.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ca.r214.09\\Desktop\\Exam\\ExamHuseyn\\ExamHuseyn\\Migrations\\20240125052530_addtables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T05:25:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAOIBAAAAAAAAAAAAAPQBAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamHuseyn\\Areas\\Manage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ExamHuseyn\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ExamHuseyn\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-22T17:46:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "ExamHuseyn\\ViewModels\\HomeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Models\\AppUser.cs",
+              "RelativeToolTip": "ExamHuseyn\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamHuseyn\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\Exam\\ExamHuseyn\\ExamHuseyn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamHuseyn\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:46:55.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

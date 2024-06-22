@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\71447946-5885-41f8-abc0-155962146f7cregister-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\71447946-5885-41f8-abc0-155962146f7cregister-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\c5e1ecbb-f6d8-4b4f-b4c7-d15d5bfd740dregister-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\c5e1ecbb-f6d8-4b4f-b4c7-d15d5bfd740dregister-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\c7b6f963-fab3-411e-b178-590538739a32lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\c7b6f963-fab3-411e-b178-590538739a32lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\manage\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\manage\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\manage\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\manage\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\manage\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\manage\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\manage\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\js\\template.js",
+      "PackagePath": "staticwebassets\\manage\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\Exam\\ExamHuseyn\\ExamHuseyn\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExamHuseyn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExamHuseyn.props",
+      "PackagePath": "build\\ExamHuseyn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamHuseyn.props",
+      "PackagePath": "buildMultiTargeting\\ExamHuseyn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExamHuseyn.props",
+      "PackagePath": "buildTransitive\\ExamHuseyn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
